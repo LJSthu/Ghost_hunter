@@ -10,3 +10,8 @@
 * playground第二名
 （在参赛队伍中）
 
+### 代码说明
+* 数据预处理：将提供的hdf5文件转换为numpy矩阵：data_preprocess
+* LSTM模型：lstm
+* CNN模型：cnn， 最终成绩决赛1.856
+
